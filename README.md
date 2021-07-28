@@ -14,11 +14,11 @@ pip install mechanize
 
 pip install requests
 
-git clone https://github.com/Toxic-Noob/ToxicBomber
+git clone https://github.com/RM-Noob/RMBomber
 
-cd ToxicBomber
+cd RMBomber
 
-python Tbomb.py
+python RMbomb.py
 
 <img src="https://h.top4top.io/p_20339n9x50.jpg" alt="ToxicBomber">
 
