@@ -20,7 +20,7 @@ cd RMBomber
 
 python RMbomb.py
 
-<img src="https://h.top4top.io/p_20339n9x50.jpg" alt="ToxicBomber">
+<img src="https://h.top4top.io/p_20339n9x50.jpg" alt="RMBomber">
 
 Updates in New Version:
 
